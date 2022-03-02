@@ -6,10 +6,10 @@ Run:
 ```
 make && ./philo <np> <td> <te> <ts> [npm]
 ```
-np - number of philosophers
-td - time to die
-te - time to eat
-ts - time to sleep  
+np - number of philosophers;
+td - time to die;
+te - time to eat;
+ts - time to sleep;
 npm - number of times each philosopher must eat.  
 # Rules:
 ```
